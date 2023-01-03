@@ -19,6 +19,13 @@ The precision for low risk is 100%
 The recall for high risk is 92%
 The recall for low risk is 94%
 
+[click here](https://github.com/DeloxyAdeola/Credit_Risk_Analysis/blob/main/fig/fig%202.png)
+ 
+
+
+
+
+
 **SMOTE Oversampling**
 The balanced accuracy score is 62.1%
 The precision for high risk is 1%
