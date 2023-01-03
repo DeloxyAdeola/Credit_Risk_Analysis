@@ -20,9 +20,18 @@ The recall for high risk is 92%
 The recall for low risk is 94%
 
 [click here](https://github.com/DeloxyAdeola/Credit_Risk_Analysis/blob/main/fig/fig%202.png)
+
+
+[click here](https://github.com/DeloxyAdeola/Credit_Risk_Analysis/blob/main/fig/fig%203.png)
+ 
  
 
+[click here](https://github.com/DeloxyAdeola/Credit_Risk_Analysis/blob/main/fig/fig%204.png)
 
+
+[click here](https://github.com/DeloxyAdeola/Credit_Risk_Analysis/blob/main/fig/fig%205.png)
+ 
+ 
 
 
 
