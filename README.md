@@ -8,7 +8,10 @@ high_risk      347
 
 By features of impotrance the 
 total_rec_prncp and total_payment are the lead factors to consider for our analysis.
+FIGS
 
+ [alt text](image_url)
+ 
 **Easy Ensemble AdaBoost Classifier**
 The balanced accuracy score is 93%
 The precision for high risk is 9%
