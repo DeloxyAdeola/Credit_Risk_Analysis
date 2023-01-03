@@ -10,7 +10,7 @@ By features of impotrance the
 total_rec_prncp and total_payment are the lead factors to consider for our analysis.
 FIGS
 
- [alt text](image_url)
+ [click here](https://github.com/DeloxyAdeola/Credit_Risk_Analysis/blob/main/fig/fig%201.png)
  
 **Easy Ensemble AdaBoost Classifier**
 The balanced accuracy score is 93%
